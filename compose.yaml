@@ -1,0 +1,7 @@
+﻿services:
+  wetext:
+    image: wetext
+    build:
+      context: .
+      dockerfile: Dockerfile
+

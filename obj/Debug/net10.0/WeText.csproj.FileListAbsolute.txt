@@ -1,0 +1,14 @@
+/Users/mathisprioreschi/Documents/WeText/bin/Debug/net10.0/WeText
+/Users/mathisprioreschi/Documents/WeText/bin/Debug/net10.0/WeText.deps.json
+/Users/mathisprioreschi/Documents/WeText/bin/Debug/net10.0/WeText.runtimeconfig.json
+/Users/mathisprioreschi/Documents/WeText/bin/Debug/net10.0/WeText.dll
+/Users/mathisprioreschi/Documents/WeText/bin/Debug/net10.0/WeText.pdb
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.AssemblyInfoInputs.cache
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.AssemblyInfo.cs
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.csproj.CoreCompileInputs.cache
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.dll
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/refint/WeText.dll
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.pdb
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/WeText.genruntimeconfig.cache
+/Users/mathisprioreschi/Documents/WeText/obj/Debug/net10.0/ref/WeText.dll

@@ -1,27 +1,17 @@
-﻿using Terminal.Gui.App;
-using Terminal.Gui.ViewBase;
-using Terminal.Gui.Views;
-
-
-namespace WeText;
+﻿namespace WeText;
 
 public class WeText
 {
-    static void Main(string[] args)
+    public static async Task Main(string[] args)
     {
-        int terminalWidth;
-        int terminalHeight;
-
-        try
+        if (args.Length > 0 && args[0].ToLower() == "tui")
         {
-            terminalWidth = Console.WindowWidth;
-            terminalHeight = Console.WindowHeight;
+            TuiClient.Init();
         }
-        catch (IOException)
+        else
         {
-            // Console dimensions unavailable.
-            terminalWidth = 120;
-            terminalHeight = 40;
+            var daemon = new Daemon("/tmp/wetext.sock");
+            await daemon.Start();
         }
     }
 }

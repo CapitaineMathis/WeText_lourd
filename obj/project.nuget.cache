@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qzFv6T9U9WE=",
+  "dgSpecHash": "Aw7KbveWT58=",
   "success": true,
   "projectFilePath": "/Users/mathisprioreschi/Documents/WeText/WeText.csproj",
   "expectedPackageFiles": [
     "/Users/mathisprioreschi/.nuget/packages/colorhelper/1.8.1/colorhelper.1.8.1.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/jetbrains.annotations/2026.2.0/jetbrains.annotations.2026.2.0.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/markdig/1.3.2/markdig.1.3.2.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/microsoft.extensions.configuration/10.0.11/microsoft.extensions.configuration.10.0.11.nupkg.sha512",
@@ -19,7 +20,12 @@
     "/Users/mathisprioreschi/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.7/microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/microsoft.extensions.options/10.0.11/microsoft.extensions.options.10.0.11.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/microsoft.extensions.primitives/10.0.11/microsoft.extensions.primitives.10.0.11.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/mongodb.bson/3.11.2/mongodb.bson.3.11.2.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/mongodb.driver/3.11.2/mongodb.driver.3.11.2.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/onigwrap/1.0.11/onigwrap.1.0.11.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/sharpcompress/0.48.1/sharpcompress.0.48.1.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/snappier/1.3.1/snappier.1.3.1.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/system.commandline/2.0.12/system.commandline.2.0.12.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/system.io.abstractions/22.2.0/system.io.abstractions.22.2.0.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/terminal.gui/2.6.0-develop.61/terminal.gui.2.6.0-develop.61.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/testableio.system.io.abstractions/22.2.0/testableio.system.io.abstractions.22.2.0.nupkg.sha512",
@@ -27,7 +33,8 @@
     "/Users/mathisprioreschi/.nuget/packages/testably.abstractions.filesystem.interface/10.3.0/testably.abstractions.filesystem.interface.10.3.0.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/textmatesharp/2.0.4/textmatesharp.2.0.4.nupkg.sha512",
     "/Users/mathisprioreschi/.nuget/packages/textmatesharp.grammars/2.0.4/textmatesharp.grammars.2.0.4.nupkg.sha512",
-    "/Users/mathisprioreschi/.nuget/packages/wcwidth/4.0.1/wcwidth.4.0.1.nupkg.sha512"
+    "/Users/mathisprioreschi/.nuget/packages/wcwidth/4.0.1/wcwidth.4.0.1.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/zstdsharp.port/0.7.3/zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }
